@@ -16,7 +16,7 @@
 
 ## 주요 업무
 
-<img src="https://user-images.githubusercontent.com/64256411/183590638-ed8e5d54-0d89-4bb8-ae22-c9015776412a.png" width="300" height="270">   <img src="https://user-images.githubusercontent.com/64256411/183588643-9d61cb7e-3d82-4cdd-846d-ca8ba88e02c6.png" width="150" height="270">  <img src="https://user-images.githubusercontent.com/64256411/183590193-c058df5a-e301-45cf-b2df-5a6cd8a75c52.png" width="150" height="270"> <img src="https://user-images.githubusercontent.com/64256411/183590073-09c9b376-42b4-48a5-bee3-c7a9251c19c7.png" width="150" height="270"> <img src="https://user-images.githubusercontent.com/64256411/183583787-78ba696b-a216-47bb-a16c-0ef26e2b4820.png" width="150" height="270">
+<img src="https://user-images.githubusercontent.com/64256411/183590638-ed8e5d54-0d89-4bb8-ae22-c9015776412a.png" width="300" height="270">   <img src="https://user-images.githubusercontent.com/64256411/183588643-9d61cb7e-3d82-4cdd-846d-ca8ba88e02c6.png" width="150" height="270">  <img src="https://user-images.githubusercontent.com/64256411/183590193-c058df5a-e301-45cf-b2df-5a6cd8a75c52.png" width="150" height="270"> <img src="https://user-images.githubusercontent.com/64256411/183590073-09c9b376-42b4-48a5-bee3-c7a9251c19c7.png" width="150" height="270"> 
 
 
 * 회원 가입, 로그인 (ID,PW 찾기)
